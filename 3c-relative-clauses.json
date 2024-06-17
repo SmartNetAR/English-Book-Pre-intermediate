@@ -1,0 +1,59 @@
+[
+  {
+    "id": "3C",
+    "name": "What's the word?",
+    "sections": {
+      "id": 2,
+      "name": "grammar",
+      "title": "defining relative clauses",
+      "activities": [
+        {
+          "id": "a",
+          "title": "Look at three sentences from What's the word? and complete them with who, which, or where.",
+          "type": "put-words",
+          "exercises": [
+            {
+              "id": 1,
+              "statement": "It's something which people use to speak to another person.",
+              "words": [
+                "which",
+                "where",
+                "who"
+              ],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 2,
+              "statement": "It's a place where people go when they want to go shopping.",
+              "words": [
+                "which",
+                "where",
+                "who"
+              ],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            },
+            {
+              "id": 3,
+              "statement": "It's somebody who works in a hospital.",
+              "words": [
+                "which",
+                "where",
+                "who"
+              ],
+              "expectedResponse": "",
+              "userResponse": {
+                "text": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
