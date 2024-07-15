@@ -285,7 +285,7 @@
                     {
                         "id": "b",
                         "title": "Complete the questions with do or does.",
-                        "type": "put-words",
+                        "type": "put-correct-words",
                         "exercises": [
                             {
                                 "id": 1,
