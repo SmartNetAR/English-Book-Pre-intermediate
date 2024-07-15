@@ -1,0 +1,157 @@
+[
+  {
+    "id": "3C",
+    "name": "What's the word?",
+    "sections": [
+      {
+        "id": 1,
+        "name": "grammar",
+        "title": "Defining relative clauses",
+        "activities": [
+          {
+            "id": "a",
+            "title": "Look at three sentences from What's the word? and complete them with who, which or where.",
+            "type": "put-correct-words",
+            "exercises": [
+              {
+                "id": 1,
+                "statement": "It's something which people use to speak to another person.",
+                "words": [
+                  "which"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              },
+              {
+                "id": 2,
+                "statement": "It's place where people go when they want to go shopping.",
+                "words": [
+                  "where"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              },
+              {
+                "id": 3,
+                "statement": "It's somebody who works in a hospital.",
+                "words": [
+                  "who"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "vocabulary",
+        "title": "Useful expressions for explaining a word that you don't know.",
+        "activities": [
+          {
+            "id": "a",
+            "title": "Complete the useful expressions with these words.",
+            "type": "put-correct-words",
+            "exercises": [
+              {
+                "id": 1,
+                "statement": "It's somebody / a person who works in a hospital.",
+                "words": [
+                  "somebody"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": "It's somebody / a person who works in a hospital."
+                }
+              },
+              {
+                "id": 2,
+                "statement": "It's something / a thing which we use for everything nowadays.",
+                "words": [
+                  "something"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              },
+              {
+                "id": 3,
+                "statement": "It's somewhere / a place where people go when they want to buy something.",
+                "words": [
+                  "somewhere"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              },
+              {
+                "id": 4,
+                "statement": "It's a kind of gadget",
+                "words": [
+                  "kind"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              },
+              {
+                "id": 5,
+                "statement": "It's the opposite of dark.",
+                "words": [
+                  "opposite"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              },
+              {
+                "id": 6,
+                "statement": "It's like light, but you use it to describe hair.",
+                "words": [
+                  "like"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              },
+              {
+                "id": 7,
+                "statement": "It's similar to intelligent.",
+                "words": [
+                  "similar"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              },
+              {
+                "id": 8,
+                "statement": "For example, you do this to the TV.",
+                "words": [
+                  "example"
+                ],
+                "expectedResponse": "",
+                "userResponse": {
+                  "text": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
